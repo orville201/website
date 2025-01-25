@@ -1,0 +1,39 @@
+html, body {
+    background-position: center;
+    height: 100%;
+}
+
+.img-produk {
+  width: 100%;
+  max-width: 100px;
+  height: auto;
+}
+
+.img-news {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+.checklist {
+  width: 100%;
+  max-width: 30px;
+  height: auto;
+}
+
+.verified {
+  width: 100%;
+  max-width: 90px;
+  height: auto;
+}
+
+.img-footer {
+  max-width: 350px;
+  background-color: black;
+}
+
+.img-header {
+  width: 100%;
+    max-width: 38px;
+    height: auto;
+}
